@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application1131</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_from_fragment_1">Нажата кнопка 1</string>
+    <string name="hello_from_fragment_2">Нажата кнопка 2</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+</resources>
